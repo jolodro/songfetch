@@ -1,0 +1,5 @@
+# Um pedido por linha: "Artista - Música", só o título, ou um link.
+Skank - Vamos Fugir
+Marisa Monte - Amor I Love You
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC
